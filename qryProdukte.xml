@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="qryProdukte.xsd" generated="2016-05-31T22:40:22">
+<qryProdukte>
+<KeyNumber>1</KeyNumber>
+<ProduktNummer>1</ProduktNummer>
+<ProductName>Peking-Suppe</ProductName>
+<ProductDescription>scharf-sauer</ProductDescription>
+<Category>Suppen</Category>
+<LieferPreis>3.2</LieferPreis>
+</qryProdukte>
+<qryProdukte>
+<KeyNumber>2</KeyNumber>
+<ProduktNummer>2</ProduktNummer>
+<ProductName>Wan-Tan Suppe</ProductName>
+<Category>Suppen</Category>
+<LieferPreis>3.2</LieferPreis>
+</qryProdukte>
+<qryProdukte>
+<KeyNumber>3</KeyNumber>
+<ProduktNummer>3</ProduktNummer>
+<ProductName>Gemüsesuppe mit Glasnudeln</ProductName>
+<Category>Suppen</Category>
+<LieferPreis>3</LieferPreis>
+</qryProdukte>
+<qryProdukte>
+<KeyNumber>4</KeyNumber>
+<ProduktNummer>4</ProduktNummer>
+<ProductName>Tom-Yam-Gai Thail. Hühnerfleischsuppe</ProductName>
+<ProductDescription>scharf</ProductDescription>
+<Category>Suppen</Category>
+<LieferPreis>3.6</LieferPreis>
+</qryProdukte>
+<qryProdukte>
+<KeyNumber>5</KeyNumber>
+<ProduktNummer>5</ProduktNummer>
+<ProductName>Tom-Yam-Gung Thail. Garnelensuppe</ProductName>
+<ProductDescription>scharf</ProductDescription>
+<Category>Suppen</Category>
+<LieferPreis>4.2</LieferPreis>
+</qryProdukte>
+<qryProdukte>
+<KeyNumber>6</KeyNumber>
+<ProduktNummer>6</ProduktNummer>
+<ProductName>Eierblumensuppe mit Mais und Hühnerfleisch</ProductName>
+<Category>Suppen</Category>
+<LieferPreis>3.2</LieferPreis>
+</qryProdukte>
+<qryProdukte>
+<KeyNumber>7</KeyNumber>
+<ProduktNummer>7</ProduktNummer>
+<ProductName>Glasnudelnsuppe mit Hühnerfleisch</ProductName>
+<Category>Suppen</Category>
+<LieferPreis>3.2</LieferPreis>
+</qryProdukte>
+<qryProdukte>
+<KeyNumber>8</KeyNumber>
+<ProduktNummer>11</ProduktNummer>
+<ProductName>Frühlingsrolle</ProductName>
+<Category>Vorspeisen</Category>
+<LieferPreis>3.2</LieferPreis>
+</qryProdukte>
+<qryProdukte>
+<KeyNumber>9</KeyNumber>
+<ProduktNummer>12</ProduktNummer>
+<ProductName>Mini-Gemüserollen</ProductName>
+<Category>Vorspeisen</Category>
+<LieferPreis>3</LieferPreis>
+</qryProdukte>
+<qryProdukte>
+<KeyNumber>10</KeyNumber>
+<ProduktNummer>13</ProduktNummer>
+<ProductName>Wan Tan gebacken</ProductName>
+<Category>Vorspeisen</Category>
+<LieferPreis>3.5</LieferPreis>
+</qryProdukte>
+<qryProdukte>
+<KeyNumber>11</KeyNumber>
+<ProduktNummer>14</ProduktNummer>
+<ProductName>Yakitori Hühnerfleisch-Spieße</ProductName>
+<Category>Vorspeisen</Category>
+<LieferPreis>3.6</LieferPreis>
+</qryProdukte>
+<qryProdukte>
+<KeyNumber>12</KeyNumber>
+<ProduktNummer>15</ProduktNummer>
+<ProductName>Hühnerflügeln gebacken</ProductName>
+<Category>Vorspeisen</Category>
+<LieferPreis>4</LieferPreis>
+</qryProdukte>
+<qryProdukte>
+<KeyNumber>13</KeyNumber>
+<ProduktNummer>17</ProduktNummer>
+<ProductName>Gemüsesalat mit Dressing</ProductName>
+<Category>Vorspeisen</Category>
+<LieferPreis>3.6</LieferPreis>
+</qryProdukte>
+<qryProdukte>
+<KeyNumber>14</KeyNumber>
+<ProduktNummer>18</ProduktNummer>
+<ProductName>Asia-Salat mit Sesam-Hühnerfleisch</ProductName>
+<Category>Vorspeisen</Category>
+<LieferPreis>5</LieferPreis>
+</qryProdukte>
+<qryProdukte>
+<KeyNumber>15</KeyNumber>
+<ProduktNummer>19</ProduktNummer>
+<ProductName>Asia-Salat mit Tempura, gebackene Garnelen in Teig</ProductName>
+<Category>Vorspeisen</Category>
+<LieferPreis>6.2</LieferPreis>
+</qryProdukte>
+<qryProdukte>
+<KeyNumber>63</KeyNumber>
+<ProduktNummer>20</ProduktNummer>
+<ProductName>Gemischter Gemüsesalat</ProductName>
+<ProductDescription>mit Dressing (Kräuter oder Joghurt oder French)</ProductDescription>
+<Category>Vorspeisen</Category>
+<Category2>Salate</Category2>
+<LieferPreis>3.8</LieferPreis>
+<LokalPreis>0</LokalPreis>
+</qryProdukte>
+<qryProdukte>
+<KeyNumber>17</KeyNumber>
+<ProduktNummer>21</ProduktNummer>
+<ProductName>Gemüsesalat mit Hähnchenbrust</ProductName>
+<ProductDescription>mit Erdnuss-Sauce</ProductDescription>
+<Category>Vorspeisen</Category>
+<Category2>Salate</Category2>
+<LieferPreis>5.8</LieferPreis>
+</qryProdukte>
+<qryProdukte>
+<KeyNumber>64</KeyNumber>
+<ProduktNummer>22</ProduktNummer>
+<ProductName>Gemüsesalat Chicken</ProductName>
+<ProductDescription>mit knusprigen Sesam-Hühnerfleisch</ProductDescription>
+<Category>Vorspeisen</Category>
+<Category2>Salate</Category2>
+<LieferPreis>6.4</LieferPreis>
+<LokalPreis>0</LokalPreis>
+</qryProdukte>
+<qryProdukte>
+<KeyNumber>65</KeyNumber>
+<ProduktNummer>23</ProduktNummer>
+<ProductName>Gemüsesalat mit Tempura</ProductName>
+<ProductDescription>Garnelen in Teig gebacken, 2 Stücke</ProductDescription>
+<Category>Vorspeisen</Category>
+<Category2>Salate</Category2>
+<LieferPreis>7.5</LieferPreis>
+<LokalPreis>0</LokalPreis>
+</qryProdukte>
+<qryProdukte>
+<KeyNumber>66</KeyNumber>
+<ProduktNummer>24</ProduktNummer>
+<ProductName>Gemürsesalat Asia</ProductName>
+<ProductDescription>mit Hühnerfleisch, Ente, Garnelen</ProductDescription>
+<Category>Vorspeisen</Category>
+<Category2>Salate</Category2>
+<LieferPreis>7.5</LieferPreis>
+<LokalPreis>0</LokalPreis>
+</qryProdukte>
+<qryProdukte>
+<KeyNumber>67</KeyNumber>
+<ProduktNummer>25</ProduktNummer>
+<ProductName>Rindfleisch- Salat</ProductName>
+<ProductDescription>sehr scharfer thailändischer Salat</ProductDescription>
+<Category>Vorspeisen</Category>
+<Category2>Salate</Category2>
+<LieferPreis>6.4</LieferPreis>
+<LokalPreis>0</LokalPreis>
+</qryProdukte>
+<qryProdukte>
+<KeyNumber>16</KeyNumber>
+<ProduktNummer>26</ProduktNummer>
+<ProductName>Edamame</ProductName>
+<ProductDescription>japanische Sojabohnen</ProductDescription>
+<Category>Vorspeisen</Category>
+<Category2>Salate</Category2>
+<LieferPreis>3.9</LieferPreis>
+</qryProdukte>
+<qryProdukte>
+<KeyNumber>27</KeyNumber>
+<ProduktNummer>30</ProduktNummer>
+<ProductName>Hühnerfleisch mit Chili, Ingwer und Knoblauch</ProductName>
+<ProductDescription>sehr scharf</ProductDescription>
+<Category>Hühnerfleisch</Category>
+<LieferPreis>8.5</LieferPreis>
+<LokalPreis>0</LokalPreis>
+</qryProdukte>
+<qryProdukte>
+<KeyNumber>18</KeyNumber>
+<ProduktNummer>31</ProduktNummer>
+<ProductName>Hühnerfleisch Chop- Suey</ProductName>
+<Category>Hühnerfleisch</Category>
+<LieferPreis>8.4</LieferPreis>
+<LokalPreis>0</LokalPreis>
+</qryProdukte>
+<qryProdukte>
+<KeyNumber>19</KeyNumber>
+<ProduktNummer>32</ProduktNummer>
+<ProductName>Hühnerfleisch Gong-Bao mit Cashewnüsse</ProductName>
+<ProductDescription>scharf</ProductDescription>
+<Category>Hühnerfleisch</Category>
+<LieferPreis>8.5</LieferPreis>
+<LokalPreis>0</LokalPreis>
+</qryProdukte>
+<qryProdukte>
+<KeyNumber>20</KeyNumber>
+<ProduktNummer>33</ProduktNummer>
+<ProductName>Hühnerfleisch mit scharferThai-Rotcurry</ProductName>
+<Category>Hühnerfleisch</Category>
+<LieferPreis>8.5</LieferPreis>
+<LokalPreis>0</LokalPreis>
+</qryProdukte>
+<qryProdukte>
+<KeyNumber>21</KeyNumber>
+<ProduktNummer>34</ProduktNummer>
+<ProductName>Hühnerfleisch gebacken mit süß-saurer Sauce</ProductName>
+<Category>Hühnerfleisch</Category>
+<LieferPreis>8.5</LieferPreis>
+<LokalPreis>0</LokalPreis>
+</qryProdukte>
+<qryProdukte>
+<KeyNumber>22</KeyNumber>
+<ProduktNummer>35</ProduktNummer>
+<ProductName>Hühnerfleisch mit Morcheln und Glasnudeln</ProductName>
+<Category>Hühnerfleisch</Category>
+<LieferPreis>8.4</LieferPreis>
+<LokalPreis>0</LokalPreis>
+</qryProdukte>
+<qryProdukte>
+<KeyNumber>23</KeyNumber>
+<ProduktNummer>36</ProduktNummer>
+<ProductName>Hähnchenkeule gebacken Thai-Rotcurry</ProductName>
+<Category>Hühnerfleisch</Category>
+<LieferPreis>8.6</LieferPreis>
+<LokalPreis>0</LokalPreis>
+</qryProdukte>
+<qryProdukte>
+<KeyNumber>24</KeyNumber>
+<ProduktNummer>37</ProduktNummer>
+<ProductName>Hähnchenkeule gebacken mit scharfer Hoi-Sin Sauce</ProductName>
+<Category>Hühnerfleisch</Category>
+<LieferPreis>8.6</LieferPreis>
+<LokalPreis>0</LokalPreis>
+</qryProdukte>
+<qryProdukte>
+<KeyNumber>25</KeyNumber>
+<ProduktNummer>38</ProduktNummer>
+<ProductName>Hähnchenkeule mit Reiswein-Sauce</ProductName>
+<Category>Hühnerfleisch</Category>
+<LieferPreis>8.6</LieferPreis>
+<LokalPreis>0</LokalPreis>
+</qryProdukte>
+<qryProdukte>
+<KeyNumber>26</KeyNumber>
+<ProduktNummer>39</ProduktNummer>
+<ProductName>Hühnerfleisch Saté-Spieße mit Erdnuss-Sauce</ProductName>
+<Category>Hühnerfleisch</Category>
+<LieferPreis>8.6</LieferPreis>
+<LokalPreis>0</LokalPreis>
+</qryProdukte>
+<qryProdukte>
+<KeyNumber>36</KeyNumber>
+<ProduktNummer>40</ProduktNummer>
+<ProductName>Rindfleisch Chop-Suey</ProductName>
+<Category>Rindfleisch</Category>
+<LieferPreis>9.4</LieferPreis>
+<LokalPreis>0</LokalPreis>
+</qryProdukte>
+<qryProdukte>
+<KeyNumber>37</KeyNumber>
+<ProduktNummer>41</ProduktNummer>
+<ProductName>Rindfleisch Gong-Bao</ProductName>
+<ProductDescription>scharf</ProductDescription>
+<Category>Rindfleisch</Category>
+<LieferPreis>9.5</LieferPreis>
+<LokalPreis>0</LokalPreis>
+</qryProdukte>
+<qryProdukte>
+<KeyNumber>38</KeyNumber>
+<ProduktNummer>42</ProduktNummer>
+<ProductName>Rindfleisch Thai-Rotcurry</ProductName>
+<ProductDescription>scharf</ProductDescription>
+<Category>Rindfleisch</Category>
+<LieferPreis>9.5</LieferPreis>
+<LokalPreis>0</LokalPreis>
+</qryProdukte>
+<qryProdukte>
+<KeyNumber>39</KeyNumber>
+<ProduktNummer>43</ProduktNummer>
+<ProductName>Rindfleisch mit Zwiebeln</ProductName>
+<ProductDescription>scharf</ProductDescription>
+<Category>Rindfleisch</Category>
+<LieferPreis>9.4</LieferPreis>
+<LokalPreis>0</LokalPreis>
+</qryProdukte>
+<qryProdukte>
+<KeyNumber>40</KeyNumber>
+<ProduktNummer>44</ProduktNummer>
+<ProductName>Sukiyaki ,Rindfleisch mit Morcheln und Glasnudeln</ProductName>
+<Category>Rindfleisch</Category>
+<LieferPreis>9.5</LieferPreis>
+<LokalPreis>0</LokalPreis>
+</qryProdukte>
+<qryProdukte>
+<KeyNumber>41</KeyNumber>
+<ProduktNummer>45</ProduktNummer>
+<ProductName>Rindfleisch mit Chili und Knoblauch</ProductName>
+<ProductDescription>sehr scharf</ProductDescription>
+<Category>Rindfleisch</Category>
+<LieferPreis>9.5</LieferPreis>
+<LokalPreis>0</LokalPreis>
+</qryProdukte>
+<qryProdukte>
+<KeyNumber>28</KeyNumber>
+<ProduktNummer>50</ProduktNummer>
+<ProductName>Ente Chop-Suey</ProductName>
+<Category>Enten</Category>
+<LieferPreis>12.4</LieferPreis>
+<LokalPreis>0</LokalPreis>
+</qryProdukte>
+<qryProdukte>
+<KeyNumber>29</KeyNumber>
+<ProduktNummer>51</ProduktNummer>
+<ProductName>Ente Gong-Bao</ProductName>
+<ProductDescription>scharf</ProductDescription>
+<Category>Enten</Category>
+<LieferPreis>12.5</LieferPreis>
+<LokalPreis>0</LokalPreis>
+</qryProdukte>
+<qryProdukte>
+<KeyNumber>30</KeyNumber>
+<ProduktNummer>52</ProduktNummer>
+<ProductName>Ente mit süß-saurer Sauce</ProductName>
+<Category>Enten</Category>
+<LieferPreis>12.5</LieferPreis>
+<LokalPreis>0</LokalPreis>
+</qryProdukte>
+<qryProdukte>
+<KeyNumber>31</KeyNumber>
+<ProduktNummer>53</ProduktNummer>
+<ProductName>Ente mit scharfer Thai-Rotcurry</ProductName>
+<Category>Enten</Category>
+<LieferPreis>12.5</LieferPreis>
+<LokalPreis>0</LokalPreis>
+</qryProdukte>
+<qryProdukte>
+<KeyNumber>32</KeyNumber>
+<ProduktNummer>54</ProduktNummer>
+<ProductName>Ente mit scharfer Hoi-Sin Sauce</ProductName>
+<Category>Enten</Category>
+<LieferPreis>12.5</LieferPreis>
+<LokalPreis>0</LokalPreis>
+</qryProdukte>
+<qryProdukte>
+<KeyNumber>33</KeyNumber>
+<ProduktNummer>55</ProduktNummer>
+<ProductName>Ente mit Reiswein-Sauce</ProductName>
+<Category>Enten</Category>
+<LieferPreis>12.5</LieferPreis>
+<LokalPreis>0</LokalPreis>
+</qryProdukte>
+<qryProdukte>
+<KeyNumber>34</KeyNumber>
+<ProduktNummer>56</ProduktNummer>
+<ProductName>Ente mit Erdnuss-Sauce</ProductName>
+<Category>Enten</Category>
+<LieferPreis>12.5</LieferPreis>
+<LokalPreis>0</LokalPreis>
+</qryProdukte>
+<qryProdukte>
+<KeyNumber>35</KeyNumber>
+<ProduktNummer>57</ProduktNummer>
+<ProductName>Ente mit Ingwer-Knoblauch-und Chili-Sauce</ProductName>
+<ProductDescription>sehr scharf</ProductDescription>
+<Category>Enten</Category>
+<LieferPreis>12.5</LieferPreis>
+<LokalPreis>0</LokalPreis>
+</qryProdukte>
+<qryProdukte>
+<KeyNumber>42</KeyNumber>
+<ProduktNummer>60</ProduktNummer>
+<ProductName>Gemüse mit Glasnudeln</ProductName>
+<Category>vegetarisch</Category>
+<LieferPreis>7.9</LieferPreis>
+<LokalPreis>0</LokalPreis>
+</qryProdukte>
+<qryProdukte>
+<KeyNumber>43</KeyNumber>
+<ProduktNummer>61</ProduktNummer>
+<ProductName>Gemüse Gong-Bao, scharf</ProductName>
+<Category>vegetarisch</Category>
+<LieferPreis>7.9</LieferPreis>
+<LokalPreis>0</LokalPreis>
+</qryProdukte>
+<qryProdukte>
+<KeyNumber>44</KeyNumber>
+<ProduktNummer>62</ProduktNummer>
+<ProductName>Gemüse mit scharfer Thai-Rotcurry</ProductName>
+<Category>vegetarisch</Category>
+<LieferPreis>7.9</LieferPreis>
+<LokalPreis>0</LokalPreis>
+</qryProdukte>
+<qryProdukte>
+<KeyNumber>45</KeyNumber>
+<ProduktNummer>63</ProduktNummer>
+<ProductName>Gemüse mit Tofu</ProductName>
+<Category>vegetarisch</Category>
+<LieferPreis>8</LieferPreis>
+<LokalPreis>0</LokalPreis>
+</qryProdukte>
+<qryProdukte>
+<KeyNumber>46</KeyNumber>
+<ProduktNummer>64</ProduktNummer>
+<ProductName>Gemüse mit Chili und Knoblauch</ProductName>
+<Category>vegetarisch</Category>
+<LieferPreis>8</LieferPreis>
+<LokalPreis>0</LokalPreis>
+</qryProdukte>
+<qryProdukte>
+<KeyNumber>47</KeyNumber>
+<ProduktNummer>70</ProduktNummer>
+<ProductName>Achtschätze, versch. Fleischsorten</ProductName>
+<ProductDescription>scharf</ProductDescription>
+<Category>Sonstige</Category>
+<LieferPreis>10.5</LieferPreis>
+<LokalPreis>0</LokalPreis>
+</qryProdukte>
+<qryProdukte>
+<KeyNumber>48</KeyNumber>
+<ProduktNummer>71</ProduktNummer>
+<ProductName>Garnelen Gong-Bao</ProductName>
+<Category>Sonstige</Category>
+<LieferPreis>18</LieferPreis>
+<LokalPreis>0</LokalPreis>
+</qryProdukte>
+<qryProdukte>
+<KeyNumber>49</KeyNumber>
+<ProduktNummer>72</ProduktNummer>
+<ProductName>Garnelen mit scharfer Thai-Rotcurry</ProductName>
+<Category>Sonstige</Category>
+<LieferPreis>18</LieferPreis>
+<LokalPreis>0</LokalPreis>
+</qryProdukte>
+<qryProdukte>
+<KeyNumber>50</KeyNumber>
+<ProduktNummer>73</ProduktNummer>
+<ProductName>Fischfilet gebacken mit süß-saurer Sauce</ProductName>
+<Category>Sonstige</Category>
+<LieferPreis>8.9</LieferPreis>
+<LokalPreis>0</LokalPreis>
+</qryProdukte>
+<qryProdukte>
+<KeyNumber>51</KeyNumber>
+<ProduktNummer>74</ProduktNummer>
+<ProductName>Fischfilet gebacken mit scharfer Thai-Rotcurry</ProductName>
+<Category>Sonstige</Category>
+<LieferPreis>8.9</LieferPreis>
+<LokalPreis>0</LokalPreis>
+</qryProdukte>
+<qryProdukte>
+<KeyNumber>52</KeyNumber>
+<ProduktNummer>75</ProduktNummer>
+<ProductName>Ente und Hähnchenkeule gebacken mit scharfer Hoi-Sin Sauce</ProductName>
+<Category>Sonstige</Category>
+<LieferPreis>10.9</LieferPreis>
+<LokalPreis>0</LokalPreis>
+</qryProdukte>
+<qryProdukte>
+<KeyNumber>53</KeyNumber>
+<ProduktNummer>76</ProduktNummer>
+<ProductName>gebackene Ente und Hühnerfleisch mit versch. Fleischsorten und Gemüse</ProductName>
+<Category>Sonstige</Category>
+<LieferPreis>24</LieferPreis>
+<LokalPreis>0</LokalPreis>
+</qryProdukte>
+<qryProdukte>
+<KeyNumber>54</KeyNumber>
+<ProduktNummer>77</ProduktNummer>
+<ProductName>Menü für 2 Personen</ProductName>
+<ProductDescription>2x Pekingsuppen und
+1x Mini-Flühlingsrolle(8St) und
+1x Hühnerfleisch Gong Bao und 
+1x Ente süß-sauer und
+2x Mongocréme</ProductDescription>
+<Category>Familienglück</Category>
+<LieferPreis>35</LieferPreis>
+<LokalPreis>0</LokalPreis>
+</qryProdukte>
+<qryProdukte>
+<KeyNumber>55</KeyNumber>
+<ProduktNummer>78</ProduktNummer>
+<ProductName>Menü für 1 Person</ProductName>
+<ProductDescription>1x Pekingsuppe und 
+1x Gemüse-Salat und
+1x Ente mit versch. Fleischsorten und
+1x gebackene Bananen</ProductDescription>
+<Category>Familienglück</Category>
+<LieferPreis>19</LieferPreis>
+<LokalPreis>0</LokalPreis>
+</qryProdukte>
+<qryProdukte>
+<KeyNumber>56</KeyNumber>
+<ProduktNummer>80</ProduktNummer>
+<ProductName>gebackene Bananen</ProductName>
+<Category>Dessert</Category>
+<LieferPreis>2.8</LieferPreis>
+<LokalPreis>0</LokalPreis>
+</qryProdukte>
+<qryProdukte>
+<KeyNumber>57</KeyNumber>
+<ProduktNummer>81</ProduktNummer>
+<ProductName>gebackene Ananas</ProductName>
+<Category>Dessert</Category>
+<LieferPreis>2.8</LieferPreis>
+<LokalPreis>0</LokalPreis>
+</qryProdukte>
+<qryProdukte>
+<KeyNumber>58</KeyNumber>
+<ProduktNummer>82</ProduktNummer>
+<ProductName>gebackene Lychees</ProductName>
+<Category>Dessert</Category>
+<LieferPreis>2.8</LieferPreis>
+<LokalPreis>0</LokalPreis>
+</qryProdukte>
+<qryProdukte>
+<KeyNumber>59</KeyNumber>
+<ProduktNummer>83</ProduktNummer>
+<ProductName>Sesambällchen</ProductName>
+<Category>Dessert</Category>
+<LieferPreis>2.9</LieferPreis>
+<LokalPreis>0</LokalPreis>
+</qryProdukte>
+<qryProdukte>
+<KeyNumber>60</KeyNumber>
+<ProduktNummer>84</ProduktNummer>
+<ProductName>Lychees</ProductName>
+<Category>Dessert</Category>
+<LieferPreis>2.6</LieferPreis>
+<LokalPreis>0</LokalPreis>
+</qryProdukte>
+<qryProdukte>
+<KeyNumber>61</KeyNumber>
+<ProduktNummer>85</ProduktNummer>
+<ProductName>Mango-Cream</ProductName>
+<Category>Dessert</Category>
+<LieferPreis>2.9</LieferPreis>
+<LokalPreis>0</LokalPreis>
+</qryProdukte>
+<qryProdukte>
+<KeyNumber>62</KeyNumber>
+<ProduktNummer>86</ProduktNummer>
+<ProductName>Eiscréme von Häagen Dazs</ProductName>
+<Category>Dessert</Category>
+<LieferPreis>6.2</LieferPreis>
+<LokalPreis>0</LokalPreis>
+</qryProdukte>
+</dataroot>

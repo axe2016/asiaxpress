@@ -1,0 +1,28 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"  "http://www.w3.org/TR/html4/loose.dtd">
+<!-- Listing 17.3 insel02.html -->
+
+
+<html>
+    <head>
+        <title>XML-Dateninsel</title>
+    </head>
+    <body>
+        <xml id="dataroot" src="qryProdukte.xml" />
+         <h1>SPEISEKARTE</h1>
+          
+          <table id="table" border="6" width="100%" datasrc="#dataroot" summary="Speisekarte">
+            
+              <thead style="background-color: aqua">
+                  <th>Nr.</th>
+                  <th>Name</th>
+                  <th>Preis</th>
+            </thead>
+                 
+            <tr valign="top" align="center">
+                <td><span datafld="ProduktNummer" /></td>#
+                <td><span datafld="ProductName" /></td>
+                <td><span datafld="LieferPreis" /></td>
+            </tr>
+        </table>
+    </body>
+</html>

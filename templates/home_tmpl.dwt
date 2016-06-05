@@ -27,7 +27,7 @@ Do the following if you're using your customized build of modernizr (http://www.
 <script src="../respond.min.js"></script>
 </head>
 <body bgcolor="#FFCCFF">
-<div class="gridContainer clearfix">
+<div class="fluid">
 <div id="div1" class="fluid"><img src="../images/asiaXpress_homepage_head.JPG"  alt=""/></div></div>
   
   <div id="horizontal" class="fluid" align="center"><ul>

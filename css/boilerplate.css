@@ -209,12 +209,14 @@ input:invalid, textarea:invalid { background-color: #f0dddd; }
 /* 
  * 'border-collapse: collapse;' needs to be overridden in designs having tables with rounded corners and drop shadows.
 */
-table { 
-    margin: 20px;
-	border-collapse: collapse; 	    border-spacing: 0; 
+table {
+	margin: 20px;
+	border-collapse: collapse;
+	border-spacing: 0;
+	text-align: left;
 	}
 td {
-	vertical-align: top;
+	vertical-align: text-top;
 	font-family: serif;
 }
 

@@ -90,7 +90,7 @@ pre { white-space: pre; white-space: pre-wrap; word-wrap: break-word; }
 q { quotes: none; }
 q:before, q:after { content: ""; content: none; }
 
-small { font-size: 85%; }
+small { font-size: 90%; }
 
 /* Position subscript and superscript content without affecting line-height: h5bp.com/k */
 sub, sup { font-size: 75%; line-height: 0; position: relative; vertical-align: baseline; }
@@ -116,7 +116,12 @@ nav ul, nav ol { list-style: none; list-style-image: none; margin: 0; padding: 0
  * 2. Remove the gap between images and borders on image containers: h5bp.com/i/440
  */
 
-img { border: 0; -ms-interpolation-mode: bicubic; vertical-align: middle; }
+img {
+	border: 2;
+	-ms-interpolation-mode: bicubic;
+	vertical-align: middle;
+	width: 100%;
+}
 
 /*
  * Correct overflow not hidden in IE9
@@ -213,11 +218,13 @@ table {
 	margin: 20px;
 	border-collapse: collapse;
 	border-spacing: 0;
-	text-align: left;
+	text-align: center;
+	font-size: small;
 	}
 td {
 	vertical-align: text-top;
 	font-family: serif;
+	font-weight: bold;
 }
 
 /* =============================================================================
